@@ -1,0 +1,56 @@
+body {
+    background: rgb(47, 32, 75);
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana,
+    sans-serif;
+    color: rgb(255,255,255);
+    line-height: 1.6;  
+    
+}
+h1{
+    text-align: center;
+}
+
+legend{
+
+    font-weight: bold;
+    
+}
+input{
+    border-radius: 10px;
+    width: 300px;
+    height: 25px;
+}
+button{
+    background: #297D38;
+    border-radius: 10px;
+    color: rgb(255,255,255);
+    width: 200px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px 10px 10px 550px;
+    padding: 2px;
+}
+button:hover {
+    background:  #399649;
+    border-radius: 10px;
+    color: rgb(255,255,255);
+    width: 200px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px 10px 10px 550px;
+    padding: 2px;
+}
+ol li{
+    margin: auto;
+    padding: 2px;
+    align-items: baseline;
+    margin: 10px 10px 10px 450px;
+
+}
+
+
+   
